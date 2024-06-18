@@ -1,0 +1,845 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NET105_ASM_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NET105_ASM_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\css\\animate-3.7.0.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate-3.7.0.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\css\\bootstrap-4.1.3.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-4.1.3.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\css\\font-awesome-4.7.0.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome-4.7.0.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\css\\jquery.datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\css\\owl-carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl-carousel.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\css\\style.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\flat-icon\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flat-icon\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\flat-icon\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flat-icon\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\flat-icon\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flat-icon\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\flat-icon\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flat-icon\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\flat-icon\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flat-icon\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\flat-icon\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flat-icon\\flaticon.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\flat-icon\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flat-icon\\flaticon.html"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\c1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\c1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\c2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\c2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\c3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\c3.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\c4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\c4.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\c5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\c5.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\c6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\c6.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\next.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\next.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog-details\\prev.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details\\prev.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\author.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\cat-post\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\cat-post\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\main-blog\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\main-blog\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\popular-post\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\popular-post\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\customer1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\customer1.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\customer2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\customer2.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\deshes1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\deshes1.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\deshes2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\deshes2.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\_DS_Store",
+      "PackagePath": "staticwebassets\\assets\\images\\elements"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\user1.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\elements\\user2.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\food-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\food-bg.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\food1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\food1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\food2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\food2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\food3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\food3.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\food4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\food4.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\food5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\food5.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\food6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\food6.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\menu-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-bg.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\quote.png",
+      "PackagePath": "staticwebassets\\assets\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\reservation-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\reservation-bg.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\table-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\table-bg.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\update1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\update1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\update2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\update2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\update3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\update3.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\images\\welcome-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\welcome-bg.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\js\\vendor\\bootstrap-4.1.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap-4.1.3.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\js\\vendor\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\js\\vendor\\jquery.datetimepicker.full.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.datetimepicker.full.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\js\\vendor\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\js\\vendor\\owl-carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\owl-carousel.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\js\\vendor\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\wow.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_base.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_about.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_banner.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_blog-home.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_blog-home.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_contact.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_deshes.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_deshes.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_elements.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_elements.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_food.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_food.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_menu.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_menu.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_nav.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_preloader.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_preloader.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_reservation.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_reservation.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_table.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_update.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_update.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\layout\\_welcome.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_welcome.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\module\\_btn.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\module\\_btn.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\module\\_form.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\module\\_form.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\module\\_other.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\module\\_other.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\setting\\_mixin.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\setting\\_mixin.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\setting\\_variable.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\setting\\_variable.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\assets\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\img\\Sandwich.jpg",
+      "PackagePath": "staticwebassets\\img\\Sandwich.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\img\\coca.jpg",
+      "PackagePath": "staticwebassets\\img\\coca.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\img\\combo1.jpg",
+      "PackagePath": "staticwebassets\\img\\combo1.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\img\\combo2.png",
+      "PackagePath": "staticwebassets\\img\\combo2.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\img\\combo3.jpg",
+      "PackagePath": "staticwebassets\\img\\combo3.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\img\\combo4.jpg",
+      "PackagePath": "staticwebassets\\img\\combo4.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\img\\garan1.png",
+      "PackagePath": "staticwebassets\\img\\garan1.png"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\img\\garan2.jpg",
+      "PackagePath": "staticwebassets\\img\\garan2.jpg"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\NET105_ASM\\NET105_ASM_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NET105_ASM_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NET105_ASM_MVC.props",
+      "PackagePath": "build\\NET105_ASM_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NET105_ASM_MVC.props",
+      "PackagePath": "buildMultiTargeting\\NET105_ASM_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NET105_ASM_MVC.props",
+      "PackagePath": "buildTransitive\\NET105_ASM_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,6 @@
+@NET105_ASM_HostAddress = http://localhost:5195
+
+GET {{NET105_ASM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
